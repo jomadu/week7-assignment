@@ -20,10 +20,10 @@ Episodes will be listed that contain all the selected cast members. Users will b
 
 ## Tasks
 
-- [] Setup `create-react-app` scaffold - week 1
-- [] Create components and fill with dummy data - week 1
-- [] Implement character searching, character adding/removing, and episode filtering functionality - week 1
-- [] Implement calling the API - week 2
-- [] Style to delight - week 2
-- [] Hosting solution - week 2
-- [] [Extension goal] Host using kubernetes on EKS - week 3
+- [ ] Setup `create-react-app` scaffold - Week 1
+- [ ] Create components and fill with dummy data - Week 1
+- [ ] Implement character searching, character adding/removing, and episode filtering functionality - Week 1
+- [ ] Implement calling the API - Week 2
+- [ ] Style to delight - Week 2
+- [ ] Hosting solution - Week 2
+- [ ] [Extension goal] Host using kubernetes on EKS - Week 3
